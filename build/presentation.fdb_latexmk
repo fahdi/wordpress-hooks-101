@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1539011989 "presentation.tex" "build/presentation.pdf" "build/presentation" 1539011991
+["pdflatex"] 1539013093 "presentation.tex" "build/presentation.pdf" "build/presentation" 1539013095
   "/etc/texmf/web2c/texmf.cnf" 1538674274 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -259,9 +259,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1538674282 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1538674292 3856214 20de2a2cfe7ae5359ea8b8321eeb51f0 ""
-  "build/presentation.aux" 1539011991 4837 3c6e5a09c9b2e0b186b73bee20e50460 ""
-  "build/presentation.nav" 1539011991 2819 32c6c4f68afc9d2faef855e8a0c52346 ""
-  "build/presentation.out" 1539011991 125 f15f87923a20fa0d10145a9c46f7bf6d ""
+  "build/presentation.aux" 1539013095 4837 3c6e5a09c9b2e0b186b73bee20e50460 ""
+  "build/presentation.nav" 1539013095 2819 32c6c4f68afc9d2faef855e8a0c52346 ""
+  "build/presentation.out" 1539013095 125 f15f87923a20fa0d10145a9c46f7bf6d ""
   "hello.c" 1538997997 82 4ad74ac1764dd09c3f06d0954775569b ""
   "images/Illustrator.png" 1539006772 12195 ced24d55b00a43dd14340b485e834f75 ""
   "images/build.png" 1538998340 32278 60481919bc65ccee2965381908b1f4e5 ""
@@ -292,12 +292,12 @@
   "images/ubuntu.png" 1539008079 16013 9000619d078c6c0e5a4d349d25f35b97 ""
   "images/windows.png" 1539007658 6939 edbf0758807d0a24b0482442ba46974c ""
   "images/word.png" 1538994323 11071 60ca07d82efee581369f3295eee5070d ""
-  "presentation.tex" 1539011989 9858 ee9b4a90e916bafaf091242f73b2ef4d ""
+  "presentation.tex" 1539013090 9945 69e7ac278d675d293429ba0bf1bb73d6 ""
   (generated)
-  "build/presentation.pdf"
   "build/presentation.snm"
-  "build/presentation.out"
-  "build/presentation.toc"
-  "build/presentation.log"
-  "build/presentation.aux"
   "build/presentation.nav"
+  "build/presentation.pdf"
+  "build/presentation.out"
+  "build/presentation.log"
+  "build/presentation.toc"
+  "build/presentation.aux"
