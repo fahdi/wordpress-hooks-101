@@ -1,3 +1,1 @@
 \beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{What is Software Piracy?}{2}{0}{1}
-\beamer@sectionintoc {2}{Let's look at some alternatives}{12}{0}{2}
