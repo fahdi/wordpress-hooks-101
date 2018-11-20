@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.9)  10 NOV 2018 07:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.9)  10 NOV 2018 09:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2025,10 +2025,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 43442 strings out of 492649
- 1003930 string characters out of 6129622
- 1538820 words of memory out of 5000000
- 46567 multiletter control sequences out of 15000+600000
+ 43444 strings out of 492649
+ 1003955 string characters out of 6129622
+ 1539821 words of memory out of 5000000
+ 46569 multiletter control sequences out of 15000+600000
  538037 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,98p,10447b,3462s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2042,7 +2042,7 @@ ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on build/presentation.pdf (22 pages, 4110086 bytes).
+Output written on build/presentation.pdf (22 pages, 4110227 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  141 compressed objects within 2 object streams

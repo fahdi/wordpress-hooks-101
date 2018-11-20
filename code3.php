@@ -1,5 +1,6 @@
-function example_callback( $example ) {
-    // Maybe modify $example in some way.
-    return $example;
+function publish_post_tweet($post_ID) {
+  global $post;
+  // Code to send a tweet with post info
 }
-add_filter( 'example_filter', 'example_callback' );
+
+add_action('publish_post', 'publish_post_tweet');

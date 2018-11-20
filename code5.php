@@ -5,4 +5,5 @@ function create_my_widget() {
  'description' => __( 'The one and only', 'mytheme' ),
  ));
 }
+
 add_action( 'widgets_init', 'create_my_widget' );
