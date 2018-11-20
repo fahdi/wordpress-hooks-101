@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1541824049 "presentation.tex" "build/presentation.pdf" "build/presentation" 1541824248
+["pdflatex"] 1542700259 "presentation.tex" "build/presentation.pdf" "build/presentation" 1542700262
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1480098698 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -268,9 +268,9 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1539080997 4220280 af45190d3ecbc3fdf8619804c73f3963 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "actions.php" 1541812645 60 d67240d39d2beac946ad2af14d471a63 ""
-  "build/presentation.aux" 1541824052 4049 e4703ee2b55cbda2ac9e5e973229e5fa ""
-  "build/presentation.nav" 1541824052 2225 6d6f0fb7f485690d253a4b8b127e2d5a ""
-  "build/presentation.out" 1541824050 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "build/presentation.aux" 1542700262 4049 e4703ee2b55cbda2ac9e5e973229e5fa ""
+  "build/presentation.nav" 1542700262 2225 6d6f0fb7f485690d253a4b8b127e2d5a ""
+  "build/presentation.out" 1542700261 0 d41d8cd98f00b204e9800998ecf8427e ""
   "code1.php" 1541823974 157 3fa98ded8a7de64c0e8411abbf74f3eb ""
   "code2.php" 1541823848 139 ccdc11edaa6ec54ecacf3467fcae2e0e ""
   "code3.php" 1541823966 149 92cd1fa35ae2a73c1057bd45025c526b ""
@@ -283,13 +283,13 @@
   "images/sense.png" 1541812645 86603 628e67e460dc8d8b5755fed182e7e9fb ""
   "images/similar.png" 1541812645 67001 c64eb01be7d4e036dfc35e01099078e6 ""
   "images/someasshole.png" 1541812645 1467328 1d98d8aa49f68b2d9e95449071b4514b ""
-  "presentation.tex" 1541817217 11480 8f6b97bc0538a6f3a6eb416ff49aecdb ""
+  "presentation.tex" 1542699153 11481 e30e04b409ee6eb1555fdf724889560e ""
   (generated)
-  "build/presentation.toc"
-  "build/presentation.snm"
-  "build/presentation.out"
+  "build/presentation.nav"
   "build/presentation.vrb"
   "build/presentation.log"
-  "build/presentation.nav"
   "build/presentation.pdf"
   "build/presentation.aux"
+  "build/presentation.out"
+  "build/presentation.toc"
+  "build/presentation.snm"
