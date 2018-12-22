@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.9)  22 DEC 2018 11:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.9)  22 DEC 2018 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1652,7 +1652,7 @@ Package pdftex.def Info: images/sense.png  used on input line 265.
 
 ] (./code3.php) [19
 
-] (./code4.php
+] (./code5.php
 LaTeX Font Info:    Try loading font information for OML+cmss on input line 3.
 LaTeX Font Info:    No file OMLcmss.fd. on input line 3.
 
@@ -1663,11 +1663,9 @@ LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
 
 ) [20
 
-] (./code5.php) [21
+] (./code6.php) [21
 
-] (./code6.php) [22
-
-] [23
+] [22
 
 ]
 \tf@nav=\write6
@@ -1679,11 +1677,11 @@ LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1692,18 +1690,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 43453 strings out of 492649
- 1004095 string characters out of 6129622
- 1539797 words of memory out of 5000000
- 46574 multiletter control sequences out of 15000+600000
+ 43446 strings out of 492649
+ 1004035 string characters out of 6129622
+ 1527797 words of memory out of 5000000
+ 46572 multiletter control sequences out of 15000+600000
  538037 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,98p,10492b,3462s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on presentation.pdf (23 pages, 4112346 bytes).
+Output written on presentation.pdf (22 pages, 4110536 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
